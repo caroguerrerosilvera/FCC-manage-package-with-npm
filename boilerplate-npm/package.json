@@ -1,6 +1,6 @@
 {
-	"author": "Caro Guerrero Silvera",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Caro Guerrero Silvera",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
